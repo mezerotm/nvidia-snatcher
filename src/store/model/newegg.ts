@@ -23,6 +23,48 @@ export const Newegg: Store = {
 			url: 'https://www.newegg.com/evga-geforce-rtx-2060-06g-p4-2066-kr/p/N82E16814487488'
 		},
 		{
+			brand: 'msi',
+			model: 'x trio',
+			series: '3070',
+			url: 'https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-gaming-x-trio/p/N82E16814137603'
+		},
+		{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3070',
+			url: 'https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-ventus-2x-oc/p/N82E16814137602'
+		},
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3070',
+			url: 'https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-ventus-3x-oc/p/N82E16814137601'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3070',
+			url: 'https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070eagle-oc-8gd/p/N82E16814932343'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'eagle',
+			series: '3070',
+			url: 'https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070eagle-8gd/p/N82E16814932344'
+		},
+		{
+			brand: 'evga',
+			model: 'x trio',
+			series: '3070',
+			url: 'https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3767-kr/p/N82E16814487532'
+		},
+		{
+			brand: 'asus',
+			model: 'rog strix',
+			series: '3070',
+			url: 'https://www.newegg.com/asus-geforce-rtx-3070-rog-strix-rtx3070-o8g-gaming/p/N82E16814126458'
+		},
+		{
 			brand: 'asus',
 			cartUrl: 'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126453',
 			model: 'tuf',
